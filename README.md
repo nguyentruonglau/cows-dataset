@@ -3,7 +3,7 @@
 
 # cows-dataset [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
- "The Cow Dataset contains 400 images of 2 classes of cows. The data is split into 180 training images and 20 testing images, where each class has been split roughly in a 9-1 split.
+ The Cow Dataset contains 400 images of 2 classes of cows. The data is split into 180 training images and 20 testing images, where each class has been split roughly in a 9-1 split.
 
 ![overview](https://github.com/nguyentruonglau/Famous-Voice/blob/main/image/data.png  "STANFORD CARS DATASET")
 
@@ -35,11 +35,9 @@ Distinguishing between fat and thin in common animals will be more difficult tha
 
 ## Guide
 
-This tutorial will help us distinguish 5 different types of cows, here we are only interested in cs1 and cs5.
+This tutorial will help us distinguish 5 different types of cows, here we are only interested in cs1 and cs5. See more at [here](https://github.com/nguyentruonglau/cows-dataset/blob/main/images/cs15.png)
 
 ![](https://github.com/nguyentruonglau/cows-dataset/blob/main/images/cs.png)
-
-![](https://github.com/nguyentruonglau/cows-dataset/blob/main/images/cs15.png)
 
 ## Reference
 [1]. PET-Livestock, Karamoja. A Pictorial Evaluation Tool for Body Condition Scoring Livestock and Forage Assessment in Karamoja, Uganda
