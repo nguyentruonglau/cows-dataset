@@ -1,7 +1,7 @@
 ﻿# COWS DATASET
 
 
-# cows-dataset [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
+# cows-dataset [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
  The Cow Dataset contains 400 images of 2 classes of cows. The data is split into 180 training images and 20 testing images, where each class has been split roughly in a 9-1 split.
 
